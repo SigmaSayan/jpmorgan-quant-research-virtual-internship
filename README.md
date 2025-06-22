@@ -66,7 +66,10 @@ This repository contains educational work completed in a simulated internship en
 
 ---
 
-## 📫 Contact
+## ✍️ Author
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sayan-das-b455a7261)
+**Sayan Das**  
+*B.Tech + M.Tech in Mechanical & Financial Engineering*  
+*Indian Institute of Technology, Kharagpur (IIT Kharagpur)*
 
+---
